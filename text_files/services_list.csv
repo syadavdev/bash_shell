@@ -1,0 +1,7 @@
+Project,branch
+common-svc,master
+config-server,master
+customer-svc,master
+eureka-svc,master
+gateway-svc,master
+message-svc,master
